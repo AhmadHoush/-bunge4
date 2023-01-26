@@ -1,5 +1,2 @@
-new text
-new color
-
-
+main
 
