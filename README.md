@@ -1,5 +1,3 @@
-new text
-new color
-
+color
 
 
